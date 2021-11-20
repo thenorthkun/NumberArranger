@@ -1,6 +1,6 @@
 # NumberArranger
 A Handwritten Digit Recognition Web App trained on the MNIST dataset of Keras using the CNN model.<br>
-**Tech stack** : Tensorflow, Kears, HTML, CSS, JavaScript.
+**Tech stack** : Tensorflow, Keras, HTML, CSS, JavaScript.
 ### Aim 🎯
 To make a convolution neural network to recognise handwritten digits by training the model on MNIST dataset available in keras. And further deploy it on web using JS scripting & make a GUI for performing implimentation.
 
